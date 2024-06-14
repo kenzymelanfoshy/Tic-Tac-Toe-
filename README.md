@@ -63,7 +63,7 @@ To run any of these algorithms, you will need Python installed on your machine. 
 
 bash
 Copy code
-git clone https://github.com/yourusername/tictactoe-algorithms.git
+git clone https://github.com/kenzymelanfoshy/Tic-Tac-Toe-.git
 cd tictactoe-algorithms
 python A_star.py  # Example for running the A* algorithm
 Each file is self-contained and can be run independently. The algorithms are designed to prevent the player from winning, providing a challenging game experience.
